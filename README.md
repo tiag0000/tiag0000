@@ -1,16 +1,14 @@
-### Hi there 👋
+### boas vindas ao meu perfil 🌸
 
-<!--
-**tiag0000/tiag0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é tiago eduvirges pinto
 
-Here are some ideas to get you started:
+- Estou estudando no [alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem javaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voce entrar em contato comigo 📧
+
+tiago.eduvirges.pinto@escola.pr.gov.br
+
+
+![](https://media.tenor.com/zdHIXkTPceQAAAAd/my-honest-reaction-walk.gif)
